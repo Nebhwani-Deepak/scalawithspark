@@ -19,13 +19,15 @@
     A place to learn technologies on the top of scala.
   twitter_username: username
   github_username: username
-  minimal_mistakes_skin: contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+  minimal_mistakes_skin: dirt # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
   search: true
   logo: "/assets/images/logo.png"
 
   # Build settings
   markdown: kramdown
   remote_theme: mmistakes/minimal-mistakes
+  incremental: false
+
 #  theme: minimal-mistakes-jekyll
   # Outputting
   permalink: /:categories/:title/
