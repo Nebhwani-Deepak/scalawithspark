@@ -61,7 +61,7 @@
 
   author:
     name   : "Deepak Nebhwani"
-    avatar : "/assets/images/profile_2.png"
+    avatar : "/assets/images/profile_compressed.jpg"
     bio    : "Spark Scala Developer \\| Big Data Engineer \\| AKKA-HTTP, AKKA-Stream, Kafka, Hadoop, Azure"
     links:
       - label: "Website"

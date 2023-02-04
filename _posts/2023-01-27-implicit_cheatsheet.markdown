@@ -11,6 +11,10 @@ One of the challenges of using implicit parameters is that they can make code mo
 An implicit cheat sheet can be helpful for developers working with the "implicit" feature in the Scala programming language. It can provide a quick reference for the syntax and usage of implicit parameters.
 
 Here, I've attempted to keep the use of the `Implicit` topic brief and to the point so that it can be quickly and easily remembered.
+
+**Note:** This blog does not contain detailed code examples; I wrote it for quick reference, which may be useful for experienced developers.
+{: .notice--info}
+
 # Scala 2
 ## 1. Implicit Conversion
 
